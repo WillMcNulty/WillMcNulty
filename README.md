@@ -1,8 +1,8 @@
-﻿# Hi, I'm William McNulty
+# Hi, I'm William McNulty
 
 I study **Computer Science and Economics at the University of Virginia** (expected May 2028). I build AI-enabled tools and check that they work: software, data pipelines and workflow tools, each measured against evidence before I trust it.
 
-**Portfolio and live demo:** [willmcnulty.github.io](https://willmcnulty.github.io) Â· **Resume:** [one-page PDF](https://willmcnulty.github.io/William_McNulty_Resume.pdf) Â· **LinkedIn:** [williammcnultyglc](https://www.linkedin.com/in/williammcnultyglc/) Â· **Email:** [willmcnultycontact@gmail.com](mailto:willmcnultycontact@gmail.com)
+**Portfolio and live demo:** [willmcnulty.github.io](https://willmcnulty.github.io) | **Resume:** [one-page PDF](https://willmcnulty.github.io/William_McNulty_Resume.pdf) | **LinkedIn:** [williammcnultyglc](https://www.linkedin.com/in/williammcnultyglc/) | **Email:** [willmcnultycontact@gmail.com](mailto:willmcnultycontact@gmail.com)
 
 ## What I'm working on
 

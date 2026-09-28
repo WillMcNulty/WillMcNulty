@@ -6,6 +6,8 @@ I study **Computer Science and Economics at the University of Virginia** (expect
 
 ## What I'm working on
 
+- **Virginia Data Center Tracker:** a statewide map of every data center Virginia's environmental agency has on record, planned, under construction or operating, searchable by ZIP code, school or a pin. Built from official records and refreshed daily. [Open the live map](https://willmcnulty.github.io/Virginia-Data-Center-Tracker/) | [code](https://github.com/WillMcNulty/Virginia-Data-Center-Tracker)
+- **UVA Capital Plan Tracker:** six years of UVA's public capital plans: the funding mix, 94 projects followed through their renames, and a feasibility model you can adjust. [Open the live site](https://willmcnulty.github.io/UVA-Capital-Plan-Tracker/) | [code](https://github.com/WillMcNulty/UVA-Capital-Plan-Tracker)
 - **UVA Knowledge Network:** a private, locally hosted pipeline that turns coursework into searchable notes, using local vision-language models and a hand-checked evaluation set (page-type accuracy went from 71% to 100%).
 - **Job-Application Tracker:** a dashboard with a Python API, validated forms and unit tests. [Try the live demo](https://willmcnulty.github.io/demo/tracker/) (sample data, runs in your browser).
 - **Fraternity Operations Platform:** one chat platform and membership database that replaced three scattered apps.
@@ -18,4 +20,4 @@ I study **Computer Science and Economics at the University of Virginia** (expect
 
 **Tools I use most:** Python, SQL, PostgreSQL, FastAPI, JavaScript, Docker, Git, and local models through Ollama.
 
-Several of my repositories are private because they contain coursework or personal data, so the portfolio site is the best place to see the work.
+Both trackers are public, code and data included. Several of my other repositories are private because they contain coursework or personal data, so the portfolio site is the best place to see that work.

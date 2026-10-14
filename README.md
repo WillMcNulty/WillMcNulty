@@ -6,7 +6,7 @@ I study **Computer Science and Economics at the University of Virginia** (expect
 
 ## What I'm working on
 
-- **Virginia Data Center Tracker:** a statewide map of every data center Virginia's environmental agency has on record, planned, under construction or operating, searchable by ZIP code, school or a pin. Built from official records and refreshed daily. [Open the live map](https://willmcnulty.github.io/Virginia-Data-Center-Tracker/) | [code](https://github.com/WillMcNulty/Virginia-Data-Center-Tracker)
+- **Data Centers Near You:** a free map of the data centers planned, under construction and operating near you, starting with Virginia, searchable by ZIP code, school or a pin. Built only from official records and refreshed daily. [datacentersnearyou.org](https://datacentersnearyou.org)
 - **UVA Capital Plan Tracker:** six years of UVA's public capital plans: the funding mix, 94 projects followed through their renames, and a feasibility model you can adjust. [Open the live site](https://willmcnulty.github.io/UVA-Capital-Plan-Tracker/) | [code](https://github.com/WillMcNulty/UVA-Capital-Plan-Tracker)
 - **UVA Knowledge Network:** a private, locally hosted pipeline that turns coursework into searchable notes, using local vision-language models and a hand-checked evaluation set (page-type accuracy went from 71% to 100%).
 - **Job-Application Tracker:** a dashboard with a Python API, validated forms and unit tests. [Try the live demo](https://willmcnulty.github.io/demo/tracker/) (sample data, runs in your browser).
